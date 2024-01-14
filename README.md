@@ -8,8 +8,8 @@ Desenvolvedor Fullstack <br>
 Programmer programmer = new()
 {
 	Name = "Victor Rita",
-	Locale = "Portugal, Leiria",
-	Age = 22,
+	Locale = "Belgium",
+	Age = 23,
 	
 	Languages = { "C#", "JavaScript", "Python" }
 };
